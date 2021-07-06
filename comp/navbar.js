@@ -7,7 +7,8 @@ function Navbar() {
     return (
         <nav>
             <div className="logo">
-              <Image src="/logo.jpeg" width={200} height={120}/>  
+              {/* <Image src="/logo.jpeg" width="100px" height="60px" />   */}
+              Next.js
             </div>
                
                
